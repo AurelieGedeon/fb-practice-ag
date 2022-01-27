@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Bolay",
+        "location": "Boca Raton, FL",
+        "type": "Healthy American",
+        "price": "$$"
+    },
+    {
+        "name": "Union Kitchen & Bar",
+        "location": "Wilton Manors, FL",
+        "type": "Peruvian-Italian",
+        "price": "$$$"
+    },
+    {
+        "name": "McDonald's",
+        "location": "Boca Raton, FL",
+        "type": "American Fast Food",
+        "price": "$$"
+    },
+    {
+        "name": "Table 26",
+        "location": "West Palm Beach, FL",
+        "type": "American",
+        "price": "$$$$"
+    }
+]
